@@ -1,0 +1,37 @@
+body{
+	background: #1E272E;
+	margin-top: 90px;
+}
+
+.container{
+	margin: 0 auto;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	line-height: normal;
+}
+
+#inte{
+	font-size: 100px;
+	margin-bottom: -220px;
+}
+
+#time{
+	font-size: 180px;
+	margin-bottom: -89px;
+}
+
+#date{
+	font-size: 70px;
+	margin-bottom: 10px;
+}
+
+#hot{
+	background-color: white;
+	padding: 10px;
+}
